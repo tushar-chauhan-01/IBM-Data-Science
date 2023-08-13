@@ -8,4 +8,6 @@ This will give you basic idea of what data science is and will also help you dis
 This will brief about life cycle of data science projects and all the methodologies needed to understand or to solve data related questions.
 
 ### MODULE-3
-This is very important module as it helps you improve your python skills which is must for any AI, Data Science field.
+This is very important module as it helps you improve your python skills which is must for any AI, Data Science field. It will provide yo with basics of HTTPS requests, API( Application Programming Interface ), Numpy, Pandas, Web Scraping to collect data for projects.
+
+### MODULE-4
